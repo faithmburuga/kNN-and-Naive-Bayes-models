@@ -25,6 +25,7 @@ Univariate analysis\
 Bivariate analysis\
 Naive Bayes Model
 
+#
 
 **Installation Requirements**
 
